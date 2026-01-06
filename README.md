@@ -16,26 +16,27 @@ I'm a **Data Science & Python Developer** passionate about building data-driven 
 ## 🧠 Skills Summary
 
 - **Programming:** Python, SQL  
-- **Data Science:** EDA, Feature Engineering, Machine Learning, Deep Learning  
+- **Data Science:** EDA, Feature Engineering, Machine Learning, Deep Learning 
 - **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
-- **Tools:** Git, Docker, Linux, AWS, Jupyter, Google Colab  
-- **Databases:** MySQL, MongoDB  
+- **Tools:** Git,  AWS, Jupyter, Google Colab  
+- **Databases:** MySQL, postgresql
+- **Statistics:** Mean, Median, Variance, Standard Deviation, Probability
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&count_private=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Revansiddappa02&show_icons=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revansiddappa02&layout=compact&theme=default" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodbavage31&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revansiddappa02&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&theme=github-light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revansiddappa&theme=github-light" />
 </p>
 
 ---
