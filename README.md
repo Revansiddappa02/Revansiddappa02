@@ -1,19 +1,84 @@
 <h1 align="center">Hi 👋, I'm Revansiddappa</h1>
 <h3 align="center">Data Science fresher skilled in Python, Pandas, NumPy, SQL, and data visualization, with a growing interest in machine learning and analytics. Actively working on real-world projects to strengthen problem-solving skills and deliver data-driven insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revansiddappa02&label=Profile%20views&color=0e75b6&style=flat" alt="revansiddappa02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revansiddappa02" alt="revansiddappa02" /></a> </p>
+## 👨‍💻 About Me
 
-- 📫 How to reach me **revansiddappa9620@gmail.com**
+I'm a **Data Science & Python Developer** passionate about building data-driven solutions, machine learning models, and scalable pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/revansiddappa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revansiddappa2" height="30" width="40" /></a>
-<a href="https://instagram.com/revansiddappa_chitguppakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revansiddappa_chitguppakar" height="30" width="40" /></a>
+- 🔭 Working on **personal & real-world data science projects**
+- 🌱 Learning **advanced ML, model deployment & data pipelines**
+- 🎯 Career focus: **Data Scientist / ML Engineer / Python Developer**
+- 📫 Reach me via **Email or LinkedIn**
+
+---
+
+## 🧠 Skills Summary
+
+- **Programming:** Python, SQL  
+- **Data Science:** EDA, Feature Engineering, Machine Learning, Deep Learning  
+- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
+- **Tools:** Git, Docker, Linux, AWS, Jupyter, Google Colab  
+- **Databases:** MySQL, MongoDB  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=default" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodbavage31&theme=default" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revansiddappa02&show_icons=true&locale=en&layout=compact" alt="revansiddappa02" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&theme=github-light" />
+</p>
+
+---
+
+## 🛠 Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📁 Featured Work
+
+- 📌 Machine Learning projects with clean EDA & model evaluation  
+- 📌 Python automation & data analysis notebooks  
+- 📌 End-to-end ML pipelines (training → evaluation → deployment-ready)  
+
+👉 **Check my repositories for detailed READMEs and notebooks**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+- Data Science & Python roles
+- Internships & entry-level opportunities
+- Collaboration on ML & data projects
+
+📩 Feel free to connect via **LinkedIn or Email**
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
