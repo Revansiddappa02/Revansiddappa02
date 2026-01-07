@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Revansiddappa</h1>
 <h3 align="center">Data Science fresher skilled in Python, Pandas, NumPy, SQL, and data visualization, with a growing interest in machine learning and analytics. Actively working on real-world projects to strengthen problem-solving skills and deliver data-driven insights.</h3>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-revansiddappa2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revansiddappa2/)
+[![Instagram](https://img.shields.io/badge/Instagram-@Revansiddappa_Chitguppakar-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Revansiddappa_Chitguppakar)
+[![Email](https://img.shields.io/badge/Email-revansiddappa9620@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revansiddappa9620@gmail.com)
+
+
 
 ## 👨‍💻 About Me
 
